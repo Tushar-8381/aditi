@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sarveshpandey/Documents/Calculator_project/output/Calculator'
+relocations:     []
+...
